@@ -1,3 +1,14 @@
+# Data files
+data/
+
+# Pre-trained weights
+weights/
+
+# Private files
+assets/secret/
+exp_secret.ipynb
+out/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
