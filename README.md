@@ -16,8 +16,8 @@ Train and evaluate models for Invoice Extraction.
 Scripts:
 
 - Prepare the 2021 MC-OCR corpus: [prepare_mcocr2021.py](./prepare_mcocr2021.py)
-- PARSeq model: [parseq.py](./parseq.py)
-- VietOCR model: [vietocr_api.py](./vietocr_api.py)
+- (Text Recognition) PARSeq model: [parseq.py](./parseq.py)
+- (Text Recognition) VietOCR model: [vietocr_api.py](./vietocr_api.py)
 - Scene text inference (PARSeq + VietOCR): [scene_text.py](./scene_text.py)
 
 Experiments:
